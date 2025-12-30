@@ -5,49 +5,76 @@ I like understanding how systems work under the hood — and what happens when t
 </h3>
 
 <p align="center">
-Final-year Computer Science student at NMIMS University, exploring systems, infrastructure, and security by building and experimenting rather than relying only on theory.
+Final-year Computer Science student at NMIMS University, exploring systems, infrastructure, and security by building, breaking, and fixing things rather than relying only on theory.
 </p>
 
 ---
 
-### 🧠 What I’m focused on
-- Understanding how **networks, operating systems, and infrastructure components** interact
-- Learning **security fundamentals** by breaking systems and reasoning about failures
-- Building **small security and systems tools** (primarily in Go)
-- Developing a strong foundation for **DevOps / Infrastructure / Cloud Security** roles
+## 🧠 What I’m focused on right now
+
+- Understanding how **networks, operating systems, and infrastructure components** interact in real environments  
+- Learning **security fundamentals** by actively breaking systems and reasoning about failures  
+- Building **small but meaningful security and systems tools**, primarily in **Go**  
+- Developing a strong foundation for **Infrastructure, DevOps, and Cloud Security** roles  
+
+I care less about buzzwords and more about **why things behave the way they do**.
 
 ---
 
-### 🛠️ Currently Working On
-- **Revealr (Go)** — an in-progress network scanning & enumeration tool to understand raw packets, concurrency, and scan reliability
-- Hands-on labs with **Linux, Docker, and networking fundamentals**
-- Improving my understanding of **real-world system constraints** (firewalls, NAT, OS behavior)
+## 🛠️ Current Work & Experiments
+
+- **Revealr (Go)** — an in-progress network scanning and enumeration tool  
+  - Exploring raw packets, scan correlation, timeouts, and concurrency trade-offs  
+  - Documenting design decisions, limitations, and failures openly  
+
+- **Systems & Networking Labs**
+  - Linux internals and process behavior  
+  - Docker fundamentals and container networking  
+  - TCP/IP behavior, firewalls, NAT, and OS-level constraints  
+
+- **Security Learning**
+  - Reconnaissance and enumeration concepts  
+  - Understanding how misconfigurations and assumptions lead to vulnerabilities  
 
 ---
 
-### 🧰 Tools & Languages
+## 🧰 Tools & Languages
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" title="Go" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker" />
 </p>
 
 ---
 
-### 📌 How to read my GitHub
-Most repositories here are **iterative and exploratory**.  
-They reflect how I:
-- learn new systems
-- debug incorrect assumptions
-- improve designs over time
+## 📌 How to read my GitHub
 
-This is a **technical archive**, not just a showcase of finished projects.
+Most repositories here are **iterative and exploratory**.
+
+They show:
+- how I approach unfamiliar systems  
+- how I debug incorrect assumptions  
+- how my designs improve over time  
+
+This GitHub is a **technical archive**, not just a gallery of polished outcomes.
 
 ---
 
-### 🌐 Connect with me
+## 🧭 What I’m aiming for
+
+Short term:
+- Internships / entry-level roles in **Infrastructure, DevOps, Platform, or Cloud Security**
+
+Long term:
+- Becoming a **systems-oriented security engineer** with strong fundamentals in networking, infrastructure, and automation
+
+---
+
+## 🌐 Connect with me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/rnks23" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedIn.svg" width="35"/>
@@ -60,7 +87,7 @@ This is a **technical archive**, not just a showcase of finished projects.
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rounakneema&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Rounakneema&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
