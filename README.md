@@ -66,13 +66,13 @@ This is a **technical archive**, not just a showcase of finished projects.
 ---
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rounakneema&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rounakneema&layout=compact" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rounakneema&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rounakneema&show_icons=true" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rounakneema" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rounakneema" />
 </p>
