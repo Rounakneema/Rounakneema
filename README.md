@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Rounak Neema 👋</h1>
 
 <h3 align="center">
-I like understanding how systems work under the hood — and what happens when they break.
+I like understanding how systems work under the hood and what happens when they break.
 </h3>
 
 <p align="center">
